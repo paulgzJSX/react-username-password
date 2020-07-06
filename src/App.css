@@ -16,12 +16,12 @@
 
 input {
   outline: 0;
-  width:100%; 
+  width:100%;
   font: 1rem 'Titillium Web';
   border: 0;
   padding: 0.8rem;
   background: #f5f5f5;
-  border-radius: 0.6rem;
+  border-radius: 1rem;
   text-align: center;
   box-sizing: border-box;
   box-shadow: rgb(212, 208, 208) 2px 2px;
